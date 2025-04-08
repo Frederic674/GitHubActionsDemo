@@ -1,0 +1,3 @@
+url : https://portail-achats.credit-agricole.fr/page.aspx/fr/rfp/request_browse_extranet
+user : ca_spirit@alteca.fr
+mdp : SoEasy302025TeamAlteca&Go
